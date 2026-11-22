@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-22",
+  "topics": [
+    {
+      "channel": "IA AL ALCANCE",
+      "topic": "rana de cristal Hyalinobatrachium",
+      "file": "ia_cristal.mp4",
+      "voice": "es-MX-DaliaNeural"
+    },
+    {
+      "channel": "Refugio en la Palabra",
+      "topic": "Agar Genesis 16 y 21",
+      "file": "fe_agar.mp4",
+      "voice": "es-MX-JorgeNeural"
+    },
+    {
+      "channel": "Anatomía del Engaño",
+      "topic": "mapa falso de la lengua y especias de cocina",
+      "file": "cu_lengua.mp4",
+      "voice": "es-CO-SalomeNeural"
+    }
+  ],
+  "avoid_next": [
+    "rana de cristal",
+    "Hyalinobatrachium",
+    "Agar",
+    "Hagar",
+    "mapa de la lengua",
+    "jengibre",
+    "curcuma",
+    "canela",
+    "clavo",
+    "menta"
+  ]
+}
